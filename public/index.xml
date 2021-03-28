@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home Garden</title>
+    <link>https://chilli-fox.web.app/</link>
+    <description>Recent content on Home Garden</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="https://chilli-fox.web.app/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://chilli-fox.web.app/about/</link>
+      <pubDate>Sun, 28 Mar 2021 14:21:02 +0200</pubDate>
+      
+      <guid>https://chilli-fox.web.app/about/</guid>
+      <description>About</description>
+    </item>
+    
+  </channel>
+</rss>
